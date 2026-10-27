@@ -1,236 +1,144 @@
 <div align="center">
-<h1>Hey, I'm Drammeh Saleem Bashir 👋</h1>
-<h3>Cybersecurity Enthusiast · Software Developer · Founder</h3>
+
+<img src="https://readme-typing-svg.vercel.app?font=JetBrains+Mono&weight=600&size=30&duration=2600&pause=900&color=60A5FA&center=true&vCenter=true&width=720&height=70&lines=Hi%2C+I'm+Drammeh+Saleem+Bashir;Mathematician+%26+Cybersecurity+Enthusiast;Software+Developer+%26+Founder;Building+technology+for+Africa" alt="Drammeh Saleem Bashir" />
+
 <p>
-Building technology, solving real problems, and creating opportunities through software.
+<a href="https://github.com/Drammeh12"><img src="https://img.shields.io/badge/GitHub-Drammeh12-0B1B33?style=for-the-badge&logo=github&logoColor=60A5FA" alt="GitHub"/></a>
+<a href="https://saleem-site.apps.bashcloud.io/"><img src="https://img.shields.io/badge/Personal_Site-12294D?style=for-the-badge&logo=googlechrome&logoColor=60A5FA" alt="Personal Website"/></a>
+<a href="https://bashlucent-site.apps.bashcloud.io/"><img src="https://img.shields.io/badge/Bash_Lucent-1E3A8A?style=for-the-badge&logo=rocket&logoColor=white" alt="Bash Lucent"/></a>
+<img src="https://komarev.com/ghpvc/?username=Drammeh12&color=1E3A8A&style=for-the-badge&label=Profile+Views" alt="Profile views"/>
 </p>
-<p>
-<a href="https://saleem-site.apps.bashcloud.io/"><img src="https://img.shields.io/badge/Personal%20Website-Visit%20My%20Site-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal Website"/></a>
-<a href="https://bashlucent-site.apps.bashcloud.io/"><img src="https://img.shields.io/badge/Bash%20Lucent-My%20Company-EC4899?style=for-the-badge&logo=rocket&logoColor=white" alt="Bash Lucent"/></a>
-<a href="https://github.com/Drammeh12"><img src="https://img.shields.io/badge/GitHub-Drammeh12-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
-</div>
-
-
-
-About Me
-
-I’m a developer and founder from Nigeria with a strong interest in cybersecurity, software engineering, cloud infrastructure, and artificial intelligence.
-
-I enjoy turning ideas into working products. My focus is on building useful technology that addresses real challenges, particularly across Africa.
-
-I founded Bash Lucent, the parent company behind three products focused on cloud deployment, financial reconciliation, and academic communities.
-
-I’m also developing my skills in ethical hacking, penetration testing, Linux, Python, and secure software development.
-
-<div align="center">
-
-My philosophy is simple: Learn continuously. Build intentionally. Create something useful.
 
 </div>
 
-What I’m Building
+---
 
-<div align="center">
+## About me
+
+I'm a developer and founder from Nigeria working at the intersection of **software engineering, cybersecurity, cloud infrastructure, and AI**. I enjoy turning ideas into working products — useful technology that solves real problems, with a focus on Africa.
+
+I founded **Bash Lucent**, the parent company behind three live products spanning cloud deployment, financial reconciliation, and student communities. Alongside building, I'm deepening my skills in ethical hacking, penetration testing, Linux, and secure software development.
+
+> *Learn continuously. Build intentionally. Create something useful.*
+
+---
+
+## What I'm building
+
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3 align="center">☁️ Bash Cloud</h3>
-<div align="center">
-<a href="https://bashcloud.io">
-<img src="https://img.shields.io/badge/CLOUD-8B5CF6?style=for-the-badge&logo=icloud&logoColor=white" alt="Bash Cloud"/>
-</a>
-</div>
 
-Bash Cloud is a deployment platform designed to help developers deploy their applications without having to manage all the underlying server infrastructure themselves.
+### ☁️ Bash Cloud
+A deployment platform that lets developers ship apps without managing the underlying servers — build from GitHub, get an address, stay online. Built for accessible, Africa-first infrastructure.
 
-I’m building toward a simpler deployment experience for developers, with a focus on accessibility and African technology infrastructure.
+<a href="https://bashcloud.io"><img src="https://img.shields.io/badge/Visit-bashcloud.io-2563EB?style=flat-square&logo=icloud&logoColor=white" alt="Bash Cloud"/></a>
 
-<p align="center">
-<a href="https://bashcloud.io"><strong>Explore Bash Cloud ↗</strong></a>
-</p>
 </td>
 <td width="50%" valign="top">
-<h3 align="center">💳 ClearKobo</h3>
-<div align="center">
-<a href="https://clearkobo-production.up.railway.app">
-<img src="https://img.shields.io/badge/FINTECH-EC4899?style=for-the-badge&logo=chartline&logoColor=white" alt="ClearKobo"/>
-</a>
-</div>
 
-ClearKobo is a financial reconciliation platform designed to help businesses match payment records, identify discrepancies, detect missing transactions, and understand their financial data.
+### 💳 ClearKobo
+A financial reconciliation platform that helps businesses match payment records, spot discrepancies, and understand their money — making reconciliation simpler and more transparent for African businesses.
 
-The goal is to make financial reconciliation easier and more transparent for African businesses.
+<a href="https://clearkobo-production.up.railway.app"><img src="https://img.shields.io/badge/Visit-ClearKobo-2563EB?style=flat-square&logo=cashapp&logoColor=white" alt="ClearKobo"/></a>
 
-<p align="center">
-<a href="https://clearkobo-production.up.railway.app"><strong>Explore ClearKobo ↗</strong></a>
-</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3 align="center">🎓 Naija Campus</h3>
-<div align="center">
-<a href="https://naijacampus.org">
-<img src="https://img.shields.io/badge/EDTECH-06B6D4?style=for-the-badge&logo=bookstack&logoColor=white" alt="Naija Campus"/>
-</a>
-</div>
 
-Naija Campus is an academic community platform built to connect students and academic communities with relevant people, learning resources, and opportunities.
+### 🎓 Naija Campus
+An academic community platform connecting Nigerian university students with the right people, learning resources, and opportunities — campus-first, built to scale across Africa.
 
-I’m working toward making it easier for students across Nigeria and eventually Africa to discover their academic communities.
+<a href="https://naijacampus.org"><img src="https://img.shields.io/badge/Visit-naijacampus.org-2563EB?style=flat-square&logo=bookstack&logoColor=white" alt="Naija Campus"/></a>
 
-<p align="center">
-<a href="https://naijacampus.org"><strong>Explore Naija Campus ↗</strong></a>
-</p>
 </td>
 <td width="50%" valign="top">
-<h3 align="center">🏢 Bash Lucent</h3>
-<div align="center">
-<a href="https://bashlucent-site.apps.bashcloud.io/">
-<img src="https://img.shields.io/badge/TECHNOLOGY-6366F1?style=for-the-badge&logo=rocket&logoColor=white" alt="Bash Lucent"/>
-</a>
-</div>
 
-Bash Lucent is the parent company bringing these products together under one vision: building useful software and technology infrastructure for African businesses, developers, and communities.
+### 🏢 Bash Lucent
+The parent company bringing these products together under one vision: building useful software and technology infrastructure for African businesses, developers, and communities.
 
-<p align="center">
-<a href="https://bashlucent-site.apps.bashcloud.io/"><strong>Discover Bash Lucent ↗</strong></a>
-</p>
-</td>
-</tr>
-</table>
-</div>
-
-
-
-Technologies & Tools
-
-These are technologies and tools I use or am exploring as I continue building my software development and cybersecurity skills.
-
-Programming
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-</p>
-
-Web Development
-
-<p>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-</p>
-
-Cybersecurity & Development Environment
-
-<p>
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-</p>
-
-Cloud & Artificial Intelligence
-
-<p>
-<img src="https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud Computing"/>
-<img src="https://img.shields.io/badge/Artificial_Intelligence-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" alt="Artificial Intelligence"/>
-<img src="https://img.shields.io/badge/Automation-FF6F00?style=for-the-badge&logo=githubactions&logoColor=white" alt="Automation"/>
-</p>
-
-
-
-GitHub Statistics
-
-<div align="center">
-<a href="https://github.com/Drammeh12">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Drammeh12&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="Drammeh12 GitHub Statistics"/>
-</a>
-<a href="https://github.com/Drammeh12">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drammeh12&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Most Used Programming Languages"/>
-</a>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Drammeh12&theme=radical&hide_border=true" alt="GitHub Contribution Streak"/>
-</div>
-
-
-
-Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Drammeh12&bg_color=141321&color=E879F9&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Contribution Graph"/>
-</div>
-
-
-
-What I’m Focused On
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="33%">
-
-🔐
-
-Cybersecurity
-
-Learning more about penetration testing, Linux, and securing applications.
-
-</td>
-<td align="center" width="33%">
-
-☁️
-
-Cloud Infrastructure
-
-Building and improving Bash Cloud for developers.
-
-</td>
-<td align="center" width="33%">
-
-🤖
-
-AI & Software
-
-Exploring practical AI applications and automation.
+<a href="https://bashlucent-site.apps.bashcloud.io/"><img src="https://img.shields.io/badge/Visit-Bash_Lucent-2563EB?style=flat-square&logo=rocket&logoColor=white" alt="Bash Lucent"/></a>
 
 </td>
 </tr>
 </table>
-</div>
 
-I’m also working on improving ClearKobo’s reconciliation capabilities and growing the Naija Campus community.
+---
 
-My Vision
+## Tech I work with
 
-I believe Africa has the talent and potential to build technology that serves its people and competes globally.
+**Languages**
 
-Through Bash Lucent, I’m working toward building practical products that help businesses operate more effectively, developers deploy software more easily, and students connect with meaningful academic opportunities.
+![Python](https://img.shields.io/badge/Python-0B1B33?style=for-the-badge&logo=python&logoColor=60A5FA)
+![TypeScript](https://img.shields.io/badge/TypeScript-0B1B33?style=for-the-badge&logo=typescript&logoColor=60A5FA)
+![JavaScript](https://img.shields.io/badge/JavaScript-0B1B33?style=for-the-badge&logo=javascript&logoColor=60A5FA)
+![SQL](https://img.shields.io/badge/SQL-0B1B33?style=for-the-badge&logo=postgresql&logoColor=60A5FA)
 
-I’m interested in the intersection of software, cybersecurity, AI, and infrastructure because I believe these areas will play an important role in shaping the future of technology.
+**Web & backend**
 
-Find Me Online
+![Next.js](https://img.shields.io/badge/Next.js-0B1B33?style=for-the-badge&logo=nextdotjs&logoColor=60A5FA)
+![React](https://img.shields.io/badge/React-0B1B33?style=for-the-badge&logo=react&logoColor=60A5FA)
+![Node.js](https://img.shields.io/badge/Node.js-0B1B33?style=for-the-badge&logo=nodedotjs&logoColor=60A5FA)
+![Express](https://img.shields.io/badge/Express-0B1B33?style=for-the-badge&logo=express&logoColor=60A5FA)
+![Prisma](https://img.shields.io/badge/Prisma-0B1B33?style=for-the-badge&logo=prisma&logoColor=60A5FA)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-0B1B33?style=for-the-badge&logo=tailwindcss&logoColor=60A5FA)
+
+**Security & tooling**
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-0B1B33?style=for-the-badge&logo=kalilinux&logoColor=60A5FA)
+![Linux](https://img.shields.io/badge/Linux-0B1B33?style=for-the-badge&logo=linux&logoColor=60A5FA)
+![Docker](https://img.shields.io/badge/Docker-0B1B33?style=for-the-badge&logo=docker&logoColor=60A5FA)
+![Git](https://img.shields.io/badge/Git-0B1B33?style=for-the-badge&logo=git&logoColor=60A5FA)
+![VS Code](https://img.shields.io/badge/VS_Code-0B1B33?style=for-the-badge&logo=visualstudiocode&logoColor=60A5FA)
+
+---
+
+## GitHub in numbers
 
 <div align="center">
-<a href="https://github.com/Drammeh12">
-<img src="https://img.shields.io/badge/GitHub-Drammeh12-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://saleem-site.apps.bashcloud.io/">
-<img src="https://img.shields.io/badge/Personal%20Website-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal Website"/>
-</a>
-<a href="https://bashlucent-site.apps.bashcloud.io/">
-<img src="https://img.shields.io/badge/Bash%20Lucent-EC4899?style=for-the-badge&logo=rocket&logoColor=white" alt="Bash Lucent"/>
-</a>
 
-Bash Cloud ·
-ClearKobo ·
-Naija Campus
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Drammeh12&show_icons=true&hide_border=true&rank_icon=github&title_color=60A5FA&icon_color=3B82F6&text_color=AEB9D4&bg_color=0B1B33" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drammeh12&layout=compact&hide_border=true&langs_count=8&title_color=60A5FA&text_color=AEB9D4&bg_color=0B1B33" alt="Top languages"/>
 
-Thanks for stopping by. Let’s build something meaningful. 🚀
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Drammeh12&hide_border=true&background=0B1B33&stroke=1E3A8A&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=AEB9D4&dates=6B7BA3&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak"/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Drammeh12&bg_color=0B1B33&color=60A5FA&title_color=60A5FA&line=3B82F6&point=FFFFFF&area=true&area_color=1E3A8A&hide_border=true" alt="Contribution graph"/>
+
+<img width="98%" src="https://github-profile-trophy.vercel.app/?username=Drammeh12&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="Trophies"/>
+
+</div>
+
+---
+
+## What I'm focused on
+
+<table>
+<tr>
+<td align="center" width="33%"><br>🔐<br><br><b>Cybersecurity</b><br><sub>Penetration testing, Linux, and securing real applications.</sub><br><br></td>
+<td align="center" width="33%"><br>☁️<br><br><b>Cloud infrastructure</b><br><sub>Building and growing Bash Cloud for developers.</sub><br><br></td>
+<td align="center" width="33%"><br>🤖<br><br><b>AI & software</b><br><sub>Practical AI applications and automation.</sub><br><br></td>
+</tr>
+</table>
+
+---
+
+## My vision
+
+Africa has the talent and the potential to build technology that serves its people and competes globally. Through **Bash Lucent**, I'm building practical products that help businesses operate more effectively, developers deploy software more easily, and students connect with meaningful opportunities.
+
+I'm drawn to where **software, cybersecurity, AI, and infrastructure** meet, because I believe those are the areas that will shape what comes next.
+
+---
+
+<div align="center">
+
+### Let's build something meaningful 🚀
+
+<a href="https://github.com/Drammeh12"><img src="https://img.shields.io/badge/GitHub-Drammeh12-0B1B33?style=for-the-badge&logo=github&logoColor=60A5FA" alt="GitHub"/></a>
+<a href="https://saleem-site.apps.bashcloud.io/"><img src="https://img.shields.io/badge/Personal_Site-12294D?style=for-the-badge&logo=googlechrome&logoColor=60A5FA" alt="Personal Website"/></a>
+<a href="https://bashlucent-site.apps.bashcloud.io/"><img src="https://img.shields.io/badge/Bash_Lucent-1E3A8A?style=for-the-badge&logo=rocket&logoColor=white" alt="Bash Lucent"/></a>
+
+<sub>Bash Cloud · ClearKobo · Naija Campus — products of Bash Lucent</sub>
 
 </div>
