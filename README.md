@@ -11,7 +11,7 @@ Building technology, solving real problems, and creating opportunities through s
 </p>
 </div>
 
-⸻
+
 
 About Me
 
@@ -102,7 +102,7 @@ Bash Lucent is the parent company bringing these products together under one vis
 </table>
 </div>
 
-⸻
+
 
 Technologies & Tools
 
@@ -144,7 +144,7 @@ Cloud & Artificial Intelligence
 <img src="https://img.shields.io/badge/Automation-FF6F00?style=for-the-badge&logo=githubactions&logoColor=white" alt="Automation"/>
 </p>
 
-⸻
+
 
 GitHub Statistics
 
@@ -158,7 +158,7 @@ GitHub Statistics
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Drammeh12&theme=radical&hide_border=true" alt="GitHub Contribution Streak"/>
 </div>
 
-⸻
+
 
 Contribution Graph
 
@@ -166,7 +166,7 @@ Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Drammeh12&bg_color=141321&color=E879F9&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Contribution Graph"/>
 </div>
 
-⸻
+
 
 What I’m Focused On
 
